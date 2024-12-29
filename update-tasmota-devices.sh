@@ -1,10 +1,10 @@
 #!/bin/bash
 
 #new version
-NEW_VERSION="14.4"
+NEW_VERSION="14.4.1"
 
 #Tasmota OTA URL
-OTA_URL="http://ota.badcloud.eu/tasmota/$NEW_VERSION/tasmota-DE.bin"
+OTA_URL="http://ota.tasmota.com/tasmota/release-$NEW_VERSION/tasmota-DE.bin"
 
 # IP-Range
 IP_RANGE="192.168.0.0/24"
