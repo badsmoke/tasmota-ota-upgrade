@@ -6,9 +6,12 @@
 jq
 
 
-# customize version in the file
+# customize version in the file and adjust ip range
+
 
 VERSION=14.4.1
+IP_RANGE="192.168.0.0/24"
+
 
 then 
 
